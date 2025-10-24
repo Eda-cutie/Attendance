@@ -9,5 +9,4 @@ xlsxwriter
 streamlit-javascript
 python-dateutil
 numpy
-
-
+pyzbar
