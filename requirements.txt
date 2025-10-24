@@ -1,0 +1,11 @@
+streamlit==1.25.0
+pillow
+qrcode
+pyzbar
+pandas
+plotly
+openpyxl
+xlsxwriter
+streamlit-javascript
+python-dateutil
+numpy
