@@ -1,4 +1,4 @@
-streamlit==1.25.0
+streamlit
 pillow
 qrcode
 zbar
@@ -9,4 +9,5 @@ xlsxwriter
 streamlit-javascript
 python-dateutil
 numpy
+
 
