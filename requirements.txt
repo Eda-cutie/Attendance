@@ -1,7 +1,7 @@
 streamlit==1.25.0
 pillow
 qrcode
-pyzbar
+zbar
 pandas
 plotly
 openpyxl
@@ -9,3 +9,4 @@ xlsxwriter
 streamlit-javascript
 python-dateutil
 numpy
+
